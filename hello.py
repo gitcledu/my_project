@@ -1,6 +1,4 @@
-print("hello")
+def nice_print(text):
+    print("niceee", text)
 
-print("world")
-
-
-print('foooo')
+nice_print('foooo')
